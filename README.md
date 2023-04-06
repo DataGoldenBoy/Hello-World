@@ -1,2 +1,1 @@
-# Hello-World
-My 1st repo
+print('Hello World')
